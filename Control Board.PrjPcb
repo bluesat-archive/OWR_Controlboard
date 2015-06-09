@@ -104,7 +104,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=VSNAVVBX
+DocumentUniqueId=EXRMHHWH
 
 [Document5]
 DocumentPath=2015-02-06_17-04-49\Power12V.SchDoc
@@ -138,7 +138,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=RTFFFBGM
+DocumentUniqueId=QVMPVPMM
 
 [Document7]
 DocumentPath=Power5V.SchDoc
@@ -189,7 +189,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=LMODLRYA
 
 [Document10]
 DocumentPath=Power7V4.SchDoc
@@ -206,7 +206,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LOEMOFGR
+DocumentUniqueId=OPVTVJJG
 
 [Document11]
 DocumentPath=Power.SchDoc
@@ -258,10 +258,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GTLAYFLS
-
-[GeneratedDocument1]
-DocumentPath=ProjectOutputs\Control Board.xls
-DItemRevisionGUID=
 
 [Configuration1]
 Name=Default Configuration
